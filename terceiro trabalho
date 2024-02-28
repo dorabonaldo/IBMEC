@@ -1,0 +1,12 @@
+TERCEIRO TRABALHO
+
+1 - Explique as diferenças entre 3 linguagens de programação: 
+RESPOSTA: linguagem de programação é um conjunto de instruções escritas realizadas por um programador, com o objtivo de fornecer instruções ao computador a ser utilizado para execução de uma atividade, traduzindo a sequência binária dos computadores. Como exemplo de três linguagens temos: Python, que possui uma linguagem reconhecida pela sua simplicidade, tendo uma utilidade mais versátil, frequentemente para desenvolvimento web; Ruby é uma linguagem de gerencimaneto de memória automático, utilizada para diversas coisas, como análise de dados e desenvolvimento de aplicativos, tendo foco na simplicidade e praticidade; e, por fim, JavaScript, utilizada especificamente para desenvolvimento web, normalmente em conjunto com o HTML. 
+
+A. Tente fazer um código mínimo em cada uma delas. 
+
+Python - print ("bolo de banana")
+
+Ruby - puts "Daniel Ricciardo"
+
+JavaScript - console.log("It's race week!");
