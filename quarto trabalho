@@ -3,7 +3,7 @@ ESTRUTURA DE REPETIÇÃO:
 2	while nome:
 3	    nome = input ('banana')
 
-PROVA DE EXECUÇÃO: 
+PROVA DE EXECUÇÃO: https://github.com/dorabonaldo/IBMEC/blob/e77e464b7045d457fef67887ecf0105d40f7683c/repeti%C3%A7%C3%A3o.png
 
 
 ESTRUTURA DE TOMADA DE DECISÃO: 
@@ -12,4 +12,4 @@ ESTRUTURA DE TOMADA DE DECISÃO:
 3	
 4	print('8045689 > 5645  é ',x>y)
 
-PROVA DE EXECUÇÃO: 
+PROVA DE EXECUÇÃO: https://github.com/dorabonaldo/IBMEC/blob/e77e464b7045d457fef67887ecf0105d40f7683c/decis%C3%A3o.png
